@@ -2,7 +2,7 @@
 	"name": "DarkVS",
 	"version": "1.0.1",
 	"description": "A dark scheme using colors from the Dark Project of MD",
-	"originator": "swiatlyk",
+	"originator": "Xamarin Inc. (http://xamarin.com)",
 
 	"palette": [
 		{ "name": "butter2", "value": "#b3a100" },
