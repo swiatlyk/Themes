@@ -44,7 +44,7 @@ SOFTWARE.
 
 	<!-- Helper colors -->
 	<color name="white" value="#ffffff"/>
-	<color name="bone-white" value="#94A3A5"/>
+	<color name="bone-white" value="#c7d0d1"/>
 	<color name="weird-gray" value="#909194"/>
 
 	<style name="text" foreground="bone-white" background="background"/>
