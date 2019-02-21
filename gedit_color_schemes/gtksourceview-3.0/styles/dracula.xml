@@ -40,7 +40,7 @@ SOFTWARE.
 	<color name="pink" value="#ff79c6"/>
 	<color name="purple" value="#bd93f9"/>
 	<color name="red" value="#ff5555"/>
-	<color name="yellow" value="#f1fa8c"/>
+	<color name="orange2" value="#D69D85"/>
 
 	<!-- Helper colors -->
 	<color name="white" value="#ffffff"/>
@@ -53,7 +53,7 @@ SOFTWARE.
 	<style name="current-line" foreground="current-line" background="current-line"/>
 	<style name="line-numbers" foreground="weird-gray" background="background"/>
 	<style name="bracket-match" foreground="bone-white" background="background" underline="true"/>
-	<style name="search-match" foreground="selection" background="yellow"/>
+	<style name="search-match" foreground="selection" background="orange2"/>
 
 
 
@@ -62,7 +62,7 @@ SOFTWARE.
 	<style name="def:keyword" foreground="pink"/>
 	<style name="def:number" foreground="purple" />
 	<style name="def:boolean" foreground="purple"/>
-	<style name="def:string" foreground="yellow"/>
+	<style name="def:string" foreground="orange2"/>
 	<style name="def:special-char" foreground="pink"/>
 	<style name="def:builtin" foreground="cyan"/>
 	<style name="def:type" foreground="green"/>
